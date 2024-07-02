@@ -39,7 +39,7 @@ _The following Excel, Power Query, and SQL concepts were incorporated:_
 
 ## Data Analysis Process:
 
-![](temperature_query.PNG)
+C
 
 **Power Query:**
 - _Data Cleaning:_ Remove any duplicates, handle missing values, and ensure data consistency.
@@ -91,7 +91,11 @@ __Features:__
 - Filters for exploring data by date, season, and weather conditions.
 - Visual insights into how different factors influence car rental demand.
 
-**Analysis:** _Findings and Insights_
+## Analysis: 
+
+![](SQL_Script_Datafied.sql)
+
+**_Findings and Insights_**
 - The highest demand in 2017 was on [specific date and time].
 - Summer season shows the highest average demand, indicating increased rentals during warmer months.
 - Clear weather conditions have higher demand compared to rainy or stormy conditions.
